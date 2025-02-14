@@ -1,4 +1,4 @@
-### Mario Jump Game 🎮
+## Mario Jump Game 🎮
 ## Descrição
 Um jogo simples inspirado no clássico Mario Bros, desenvolvido com HTML, CSS e JavaScript puro. O jogador controla o Mario que deve pular sobre os canos para evitar colisões.
 
